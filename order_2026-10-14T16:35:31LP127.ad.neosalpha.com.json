@@ -1,0 +1,38 @@
+{
+  "Order" : {
+    "Customer" : {
+      "ID" : "12345",
+      "Name" : "John Doe",
+      "SalesRep" : "Jane Smith",
+      "SalesRepEmail" : "jane.smith@example.com",
+      "Phone" : "+91-800-123-4567",
+      "TotalDiscount" : 32.5
+    },
+    "Items" : [
+      {
+        "ItemID" : "98765",
+        "Description" : "Wireless Mouse",
+        "Quantity" : 5,
+        "Rate" : 10,
+        "Amount" : 50,
+        "Discount" : 12.0
+      },
+      {
+        "ItemID" : "54321",
+        "Description" : "Keyboard",
+        "Quantity" : 1,
+        "Rate" : 20,
+        "Amount" : 20,
+        "Discount" : 5.0
+      },
+      {
+        "ItemID" : "67890",
+        "Description" : "Monitor",
+        "Quantity" : 1,
+        "Rate" : 15,
+        "Amount" : 15,
+        "Discount" : 7.5
+      }
+    ]
+  }
+}
